@@ -32,7 +32,10 @@ html[data-theme="dark"] {
 .md-main__inner {
 	background-color: var(--text-bg-color);
 	color: var(--text-color);
-	height: auto !important;
+}
+
+.md-container {
+	background-color: var(--text-bg-color);
 }
 
 .md-typeset code {
