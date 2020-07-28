@@ -37,6 +37,7 @@ html[data-theme="dark"] {
 .md-typeset code {
 	background-color: var(--inline-code-bg-color);
 	color: var(--code-color);
+	height: auto !important;
 }
 
 .md-typeset, .md-typeset h1 {
