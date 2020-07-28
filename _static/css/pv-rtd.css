@@ -32,12 +32,12 @@ html[data-theme="dark"] {
 .md-main__inner {
 	background-color: var(--text-bg-color);
 	color: var(--text-color);
+	height: auto !important;
 }
 
 .md-typeset code {
 	background-color: var(--inline-code-bg-color);
 	color: var(--code-color);
-	height: auto !important;
 }
 
 .md-typeset, .md-typeset h1 {
